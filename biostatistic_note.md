@@ -1,5 +1,5 @@
 ---
-title: 統計note
+title: biostatistic_note_1141
 
 ---
 
@@ -1921,7 +1921,7 @@ $$
 
 $$
 \begin{align}
-& SE_{\beta_1}=\sqrt[]{\frac{MS_E}{SS_X}}=\sqrt[]{\frac{6.35}{240}}=\sqrt[]{0.026}=0.16\\[1em]
+& SE_{\beta_1}=\sqrt[]{\frac{MS_E}{SS_X}}=\sqrt[]{\frac{6.35}{240}}=\sqrt[]{0.026}=0.16\\
 & CI=\beta_0 \pm t_{1-0.05/2}\times SE_{\beta_1} \rightarrow\\
 & CI_L =1.78 \pm 2.365\times 0.16= (1.40, 2.16)
 \end{align}
