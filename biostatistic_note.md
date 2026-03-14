@@ -3,10 +3,6 @@ title: biostatistic_note_1141
 
 ---
 
----
-title: biostatistic
-
----
 
 # 統計note
  ## CH2 
